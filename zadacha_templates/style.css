@@ -1,0 +1,35 @@
+body {
+    background-color: #ffffff;
+}
+.card {
+    background: rgba(224, 201, 96, 0.657);
+}
+.main-section-headings {
+    border:rgb(87, 205, 247);
+    background:rgb(87, 205, 247);
+    border-radius: 1rem;
+    box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
+}
+
+.container-paragraph {
+    border: 1px solid #39f1bd;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: rgb(82, 248, 168);
+    box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
+}
+.main-section-container {
+    border: 1px solid #5987c4;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: rgb(87, 205, 247);
+    box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
+}
+
+.toggle-list-group-item {
+    cursor: pointer;
+}
+.toggle-list-group-item:hover {
+    background-color: #d8d8d8;
+}
+
